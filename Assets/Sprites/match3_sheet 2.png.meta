@@ -1,0 +1,1411 @@
+fileFormatVersion: 2
+guid: b07d51708ee3edf4aacc7959d991c7c4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9169533159687207363
+    second: match3_sheet 2_0
+  - first:
+      213: -6768476396792778743
+    second: match3_sheet 2_1
+  - first:
+      213: 44028052374429832
+    second: match3_sheet 2_2
+  - first:
+      213: -4130856867794676563
+    second: match3_sheet 2_3
+  - first:
+      213: 9026269741601126155
+    second: match3_sheet 2_4
+  - first:
+      213: 6906743710655098706
+    second: match3_sheet 2_5
+  - first:
+      213: -4149142524567579202
+    second: match3_sheet 2_6
+  - first:
+      213: -3225941085909238064
+    second: match3_sheet 2_7
+  - first:
+      213: 7000680752697537922
+    second: match3_sheet 2_8
+  - first:
+      213: 5996428034308531774
+    second: match3_sheet 2_9
+  - first:
+      213: 8312038082874471612
+    second: match3_sheet 2_10
+  - first:
+      213: -3545811207162563490
+    second: match3_sheet 2_11
+  - first:
+      213: 5709864122008684711
+    second: match3_sheet 2_12
+  - first:
+      213: -6238003116130931618
+    second: match3_sheet 2_13
+  - first:
+      213: -5289221891697713579
+    second: match3_sheet 2_14
+  - first:
+      213: 5182214813198518622
+    second: match3_sheet 2_15
+  - first:
+      213: 3788649000250785690
+    second: match3_sheet 2_16
+  - first:
+      213: -5957620968785594834
+    second: match3_sheet 2_17
+  - first:
+      213: -7619647671748680856
+    second: match3_sheet 2_18
+  - first:
+      213: 6558276182455849551
+    second: match3_sheet 2_19
+  - first:
+      213: -1204293749801896161
+    second: match3_sheet 2_20
+  - first:
+      213: -4522470103538160335
+    second: match3_sheet 2_21
+  - first:
+      213: -4000936735047148665
+    second: match3_sheet 2_22
+  - first:
+      213: 8140133637956231907
+    second: match3_sheet 2_23
+  - first:
+      213: 8742720213901324698
+    second: match3_sheet 2_24
+  - first:
+      213: 2564319064643347658
+    second: match3_sheet 2_25
+  - first:
+      213: 5771976031055769741
+    second: match3_sheet 2_26
+  - first:
+      213: 5904707648407262312
+    second: match3_sheet 2_27
+  - first:
+      213: 3920112165766286759
+    second: match3_sheet 2_28
+  - first:
+      213: -698880450690501537
+    second: match3_sheet 2_29
+  - first:
+      213: 2295848464333217440
+    second: match3_sheet 2_30
+  - first:
+      213: -1506576343899848823
+    second: match3_sheet 2_31
+  - first:
+      213: 7694613135796118012
+    second: match3_sheet 2_32
+  - first:
+      213: 8217534501104350035
+    second: match3_sheet 2_33
+  - first:
+      213: 4866182185699574035
+    second: match3_sheet 2_34
+  - first:
+      213: 2312128770856743623
+    second: match3_sheet 2_35
+  - first:
+      213: -8110018001744037756
+    second: match3_sheet 2_36
+  - first:
+      213: 3348229728680116969
+    second: match3_sheet 2_37
+  - first:
+      213: 2064419783990773467
+    second: match3_sheet 2_38
+  - first:
+      213: -3755639367800145059
+    second: match3_sheet 2_39
+  - first:
+      213: 6367003292212228941
+    second: match3_sheet 2_40
+  - first:
+      213: 1439963127068194896
+    second: match3_sheet 2_41
+  - first:
+      213: -4393013062452930862
+    second: match3_sheet 2_42
+  - first:
+      213: 4946332140154621838
+    second: match3_sheet 2_43
+  - first:
+      213: 3773812060423153613
+    second: match3_sheet 2_44
+  - first:
+      213: 8687482753240724403
+    second: match3_sheet 2_45
+  - first:
+      213: -4292865936280538002
+    second: match3_sheet 2_46
+  - first:
+      213: 7903384511650434673
+    second: match3_sheet 2_47
+  - first:
+      213: -1847664127952867213
+    second: match3_sheet 2_48
+  - first:
+      213: -2212081395816671227
+    second: match3_sheet 2_49
+  - first:
+      213: -454170977567422861
+    second: match3_sheet 2_50
+  - first:
+      213: -610838017794020966
+    second: match3_sheet 2_51
+  - first:
+      213: -2048440494092004996
+    second: match3_sheet 2_52
+  - first:
+      213: 5597067996687816666
+    second: match3_sheet 2_53
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: match3_sheet 2_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 266
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0072820001430eb43b7f92594f383870
+      internalID: 9169533159687207363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: match3_sheet 2_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 266
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49222d8dab50cd7418a0ab494b899b45
+      internalID: -6768476396792778743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: match3_sheet 2_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 266
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb73555e5951614597f6db0f752c083
+      internalID: 44028052374429832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: match3_sheet 2_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 266
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4f7e8d1626ebb4295cd3aa2a05fd35
+      internalID: -4130856867794676563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: match3_sheet 2_4
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 266
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f1205568385a340a4d419d88a091af
+      internalID: 9026269741601126155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: match3_sheet 2_5
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 266
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 120738333c64a8542884fe2c0acc714c
+      internalID: 6906743710655098706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: match3_sheet 2_6
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 233
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec4b7640a9192574898acf4ebefc805d
+      internalID: -4149142524567579202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: match3_sheet 2_7
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 233
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 743ed3f320508304d8556fc931c4972f
+      internalID: -3225941085909238064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: match3_sheet 2_8
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 233
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd8ece3b9c76c494882dbbe37e608c67
+      internalID: 7000680752697537922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: match3_sheet 2_9
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 233
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2edbe7fbfd43414c8c24ab453859385
+      internalID: 5996428034308531774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: match3_sheet 2_10
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 233
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 495f55c4a1a7ff14bbb6d1d07c098963
+      internalID: 8312038082874471612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: match3_sheet 2_11
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 233
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df053b4e76aaa744b896195065bb7e2b
+      internalID: -3545811207162563490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: match3_sheet 2_12
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 200
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2244905dd80b8894a96413d75c75a26a
+      internalID: 5709864122008684711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: match3_sheet 2_13
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 200
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d97c14a9b4c1614584a64ba2c13bc8d
+      internalID: -6238003116130931618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: match3_sheet 2_14
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 200
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2983ff18bd5e64047b617848c17a4653
+      internalID: -5289221891697713579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: match3_sheet 2_15
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 200
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7160cffb65853bf42bd373ff9b6d4f56
+      internalID: 5182214813198518622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: match3_sheet 2_16
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 200
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f549bd8b9895142ac7ac90b467d220
+      internalID: 3788649000250785690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: match3_sheet 2_17
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 200
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8abf48c6e4d5ce45918d09c5b7ba340
+      internalID: -5957620968785594834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: match3_sheet 2_18
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 167
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95dce7b348569b647bbe4b2b8a8fad44
+      internalID: -7619647671748680856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: match3_sheet 2_19
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 167
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e245bccc6fd923449a37817cdbe8b906
+      internalID: 6558276182455849551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: match3_sheet 2_20
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 167
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b119850c0a821d843a1d7f793f7026eb
+      internalID: -1204293749801896161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: match3_sheet 2_21
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 167
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7d502cb0ad78b43b98f32ca550cfc2
+      internalID: -4522470103538160335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: match3_sheet 2_22
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 167
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a123900f853dcfc40b75cf02dca02129
+      internalID: -4000936735047148665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: match3_sheet 2_23
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 167
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5885504fa324d9a48b896e56d212b385
+      internalID: 8140133637956231907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: match3_sheet 2_24
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 134
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 036aa08d414830046a63076c1aac6857
+      internalID: 8742720213901324698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: match3_sheet 2_25
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 134
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a5e01cee1217a42b6225dd1e12c7b4
+      internalID: 2564319064643347658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: match3_sheet 2_26
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 134
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8986fa81c280edb42931b915fedbb46f
+      internalID: 5771976031055769741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: match3_sheet 2_27
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 134
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a3236ad8bbf3b24f83db95979a19dfa
+      internalID: 5904707648407262312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: match3_sheet 2_28
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 134
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95034f27e00be4744b9dff8a161699b2
+      internalID: 3920112165766286759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: match3_sheet 2_29
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 134
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 259b3c8a1352c864ab4a851ff8539a40
+      internalID: -698880450690501537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: match3_sheet 2_30
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 101
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e36d033c2d016941a419ff16a63a364
+      internalID: 2295848464333217440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: match3_sheet 2_31
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 101
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5e017c1b4fdec45bf374833d7ae84e
+      internalID: -1506576343899848823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: match3_sheet 2_32
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 101
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3afa16b9cc90f184ea2444ae6382615b
+      internalID: 7694613135796118012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: match3_sheet 2_33
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 101
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf6ae7a9ca3eec459e4e76805852786
+      internalID: 8217534501104350035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: match3_sheet 2_34
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 101
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccedfc01c6fb8a0418a411486e775708
+      internalID: 4866182185699574035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: match3_sheet 2_35
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 101
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ded508eebca5f74ab2d6a9ba2553ebd
+      internalID: 2312128770856743623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: match3_sheet 2_36
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 68
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a65917d62128934aa66c7bea4c9f7c7
+      internalID: -8110018001744037756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: match3_sheet 2_37
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 68
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9099f23f413f66245a0224c3dbcc50de
+      internalID: 3348229728680116969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: match3_sheet 2_38
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 68
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce19be822169f04eb57bb93468f560d
+      internalID: 2064419783990773467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: match3_sheet 2_39
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 68
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab97ff41ed1458478a2e75a7c487c9b
+      internalID: -3755639367800145059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: match3_sheet 2_40
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 68
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b0a1b304569f9840bcf55f14ae7f0ca
+      internalID: 6367003292212228941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: match3_sheet 2_41
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 68
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66142aa919f2d4145a74f3361a428557
+      internalID: 1439963127068194896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: match3_sheet 2_42
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 35
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f654a9a91ae209e469c99c62ffc6a164
+      internalID: -4393013062452930862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: match3_sheet 2_43
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 35
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20cd2609eef2ef241b29b71399d9fb3c
+      internalID: 4946332140154621838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: match3_sheet 2_44
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 35
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bac10397df70a8c4abc6bcab115e690d
+      internalID: 3773812060423153613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: match3_sheet 2_45
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 35
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45731964542c9bf4989b23708e7cc18a
+      internalID: 8687482753240724403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: match3_sheet 2_46
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 35
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0afb493fa8ebea54aa3c17957bfd3c93
+      internalID: -4292865936280538002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: match3_sheet 2_47
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 35
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a325876c2acb5448176ab432fdb32d
+      internalID: 7903384511650434673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: match3_sheet 2_48
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1f478fb551e2ba4e8e72abf3e8ae0be
+      internalID: -1847664127952867213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: match3_sheet 2_49
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 2
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b967cf300fef68a4ebafac86365fc00a
+      internalID: -2212081395816671227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: match3_sheet 2_50
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 2
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a17c424c8e05694183c189827ae4ed9
+      internalID: -454170977567422861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: match3_sheet 2_51
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 2
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e0226636623de4f999cd4b7dda9b60
+      internalID: -610838017794020966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: match3_sheet 2_52
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 2
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214c880625f7c3e4eb7cc8b351586577
+      internalID: -2048440494092004996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: match3_sheet 2_53
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 2
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06910bac80dfd6e4fb46a3914d192853
+      internalID: 5597067996687816666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
